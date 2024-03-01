@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+} 
+a {
+    color: aliceblue;
+    text-decoration:none;
+}
+
+.text {
+    font-family:sans-serif;
+    color: aliceblue;
+    background-color: rgb(34, 34, 34);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: start;
+}
+h2 {
+padding: 20px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(230, 226, 226);
+}
+
+h2:hover{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(210, 210, 210);
+    color: rgb(3, 3, 3);
+    border-radius: 20px;
+    text-align: center;
+    padding: 30px;
+    width: 30%;
+    transform: scale(1.1);
+    transition: 2s;
+}
+
+h1 {
+    color: aliceblue;
+font-family:sans-serif;  
+text-align: center;  
+}
