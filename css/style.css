@@ -40,3 +40,25 @@ h1 {
 font-family:sans-serif;  
 text-align: center;  
 }
+
+.home {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(210, 210, 210);
+    color: rgb(72, 72, 72);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.home:hover {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 3px, rgb(255, 255, 255) ;
+    text-align: center;
+    border-style: double;
+    padding: 10px;
+    
+}
