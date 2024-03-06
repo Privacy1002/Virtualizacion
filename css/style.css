@@ -31,7 +31,6 @@ h2:hover{
     border-radius: 20px;
     text-align: center;
     padding: 30px;
-    width: 30%;
     transform: scale(1.1);
     transition: 2s;
 }
